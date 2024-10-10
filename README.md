@@ -7,7 +7,6 @@ Welcome to the Bet9ja Web Scraper, a Python-based script designed to automate th
 This project leverages Selenium and BeautifulSoup to scrape soccer betting odds and match details from the Bet9ja website. The data includes match times, teams, and the associated odds (home, draw, away) for each game, which is then saved into a structured CSV file.
 
 🚀 Features
-
 Scrapes real-time soccer betting data from Bet9ja's daily bundle page.
 Captures essential match information: match time, teams, and betting odds.
 Saves data in CSV format for easy access and further analysis.
